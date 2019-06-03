@@ -31,7 +31,9 @@
 * D9 : haut-parleur pour carte uno, nano
 
 * D5 : haut-parleur pour carte mega
+
 ou
 * D6 : haut-parleur pour carte mega
+
 ou
 * D46 : haut-parleur pour carte mega
