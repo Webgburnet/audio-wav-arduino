@@ -21,13 +21,13 @@
 
 ![](/fritzing/Untitled_Sketch.png)
 
-## Carte SD
+### Carte SD
 * D4 : SS Carte SD
 * D11 : MOSI Grove-Shield-Carte-SD
 * D12 : MISO Grove-Shield-Carte-SD
 * D13 : CLK Grove-Shield-Carte-SD
 
-## Haut Parleur
+### Haut Parleur
 * D9 : haut-parleur pour carte uno, nano
 
 * D5 : haut-parleur pour carte mega
